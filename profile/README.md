@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+# resources
+[MIT OpenCourseWare Videos](https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
-**Here are some ideas to get you started:**
+[SoloLearn](https://www.sololearn.com/home)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Learn Python Book](https://animator.github.io/learn-python/)
