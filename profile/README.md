@@ -9,11 +9,17 @@
 
 [CS50 Introduciton to python](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
+[Practice Problems](https://codingbat.com/python)
+
 ### CSA Resources
 
 [AP CSA TextBook](https://runestone.academy/ns/books/published/csawesome/index.html)
 
+[Practice Problems](https://codingbat.com/java)
+
 ### CS UIL Resources
 
 [AP CSA TextBook](https://runestone.academy/ns/books/published/csawesome/index.html)
+
+[Practice Problems](https://codingbat.com/java)
 
